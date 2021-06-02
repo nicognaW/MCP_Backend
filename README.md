@@ -1,7 +1,7 @@
 # Minecraft Control Panel Backend
 A back end server operate with official Minecraft server that makes the gameplay experience better.
 
-**Because of missoperate, I deleted the source code of its frontend. You could check it out on this [site](http://mcp.hplove.com.cn)(Login in with test account ID:sb123,PWD:sb123456).**
+**Because of missoperate, I deleted the source code of its frontend.~~You could check it out on this [site](http://mcp.hplove.com.cn)(Login in with test account ID:sb123,PWD:sb123456).~~** **NEVERMIND, THE DEMO IS DEAD.**
 
 ## Features
 
